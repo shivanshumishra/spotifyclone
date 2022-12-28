@@ -18,10 +18,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             SpotifyCloneTheme {
                 // A surface container using the 'background' color from the theme
-                Surface(
-                    modifier = Modifier.fillMaxSize(),
-                    color = MaterialTheme.colors.background
-                ) {
+                // test commit
+                Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colors.background) {
                     Greeting("Android")
                 }
             }
