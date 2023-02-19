@@ -1,2 +1,2 @@
 # spotifyclone
-Clone for spotify using Jetpack Compose
+Clone for spotify 
